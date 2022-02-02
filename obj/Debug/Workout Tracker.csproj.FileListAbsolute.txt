@@ -1,0 +1,12 @@
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\Workout Tracker.csproj.AssemblyReference.cache
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\WorkoutTracker.AboutBox1.resources
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\WorkoutTracker.FormExercises.resources
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\WorkoutTracker.MainForm.resources
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\WorkoutTracker.Properties.Resources.resources
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\Workout Tracker.csproj.GenerateResource.cache
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\Workout Tracker.csproj.CoreCompileInputs.cache
+C:\Users\46764\source\repos\WorkoutTracker\bin\Debug\WorkoutTracker.exe.config
+C:\Users\46764\source\repos\WorkoutTracker\bin\Debug\WorkoutTracker.exe
+C:\Users\46764\source\repos\WorkoutTracker\bin\Debug\WorkoutTracker.pdb
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\WorkoutTracker.exe
+C:\Users\46764\source\repos\WorkoutTracker\obj\Debug\WorkoutTracker.pdb

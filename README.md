@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedD67
 - 👀 I’m interested in ML and development in the .NET Core framework
-- 🌱 I’m currently learning HTML, CSS, and JS
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
